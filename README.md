@@ -16,22 +16,20 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Python", "Javascript", "Bootstrapt", "HTML", "CSS", "Tensorflow", "Pytorch", "OpenCV", "Scikit-learn", ],
+    Statistic : ["SPSS", "SAS", "AMOS", "ArcGis"],
+    askMeAbout: ["social science researcher", "web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node"],
         },
         mobileApp: {
             native: ["Android Development"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
+        devOps: ["AWS"],
+        databases: ["MySql"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
