@@ -33,7 +33,39 @@ const anmol = {
 <h3 align="left">Connect with me: winegrasshopper@gmail.com</h3>
 <p align="left">
 </p>
-
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academic and Work Experience</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .publication-section,
+        .presentation-section,
+        .project-section,
+        .certification-section,
+        .patent-section {
+            margin-bottom: 20px;
+        }
+        .publication-title,
+        .presentation-title,
+        .project-title,
+        .certification-title,
+        .patent-title {
+            font-weight: bold;
+        }
+        .publication-details,
+        .presentation-details,
+        .project-details,
+        .certification-details,
+        .patent-details {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    
 <h1>💫 Academic and Work Experience</h1>
 <div class="experience-section">
     <div class="experience-title">Hanyang University Transformation Tourism Education-Research Team, Seoul, Korea</div>
