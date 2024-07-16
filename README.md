@@ -91,25 +91,25 @@ const anmol = {
 # 📚 Refereed Publications
 
 ## 2024
-1. 🔍 **Lee, J.** (2024). Unveiling the dark side of safari tourism: Negative guide behaviors from tourists' perspective. *Journal of Destination Marketing & Management*. (SSCI, Impact factor = 8.9, Under Review)
+1. **Lee, J.** (2024). Unveiling the dark side of safari tourism: Negative guide behaviors from tourists' perspective. *Journal of Destination Marketing & Management*. (SSCI, Impact factor = 8.9, Under Review)
 
-2. 🏝️ Joo, H., Lee, S., **Lee, J.**, & Jeong, C. (2024). Research on revitalizing island tourism through analysis of tourist perception: Focusing on Baengnyeong Island, Daecheong Island, and Yeonpyeong Island. *Journal of Korean Dance*, 20(2), 67-95. (In Korean)
+2. Joo, H., Lee, S., **Lee, J.**, & Jeong, C. (2024). Research on revitalizing island tourism through analysis of tourist perception: Focusing on Baengnyeong Island, Daecheong Island, and Yeonpyeong Island. *Journal of Korean Dance*, 20(2), 67-95. (In Korean)
 
 ## 2023
-3. 🦁 **Lee, J.**, Chung, W., Kim, S., & Jeong, C. (2023). Trend assessment on African safari tourism applying dynamic topic modeling: A case of Tanzania online reviews in English. *Journal of Tourism Sciences*, 47(6), 173-194. (In Korean)
+3. **Lee, J.**, Chung, W., Kim, S., & Jeong, C. (2023). Trend assessment on African safari tourism applying dynamic topic modeling: A case of Tanzania online reviews in English. *Journal of Tourism Sciences*, 47(6), 173-194. (In Korean)
 
-4. 🎣 **Lee, J.**, & Jeong, C. (2023). Analyzing preferred scenes in South Korea fishing villages with convolutional neural networks and image feature vector clustering. *Journal of Tourism Sciences*, 47(3), 97-116. (In Korean)
+4. **Lee, J.**, & Jeong, C. (2023). Analyzing preferred scenes in South Korea fishing villages with convolutional neural networks and image feature vector clustering. *Journal of Tourism Sciences*, 47(3), 97-116. (In Korean)
 
 ## 2022
-5. 🎉 Chung, W., **Lee, J.**, Kim, S., & Jeong, C. (2022). The effect of college festival experience on college-life satisfaction, college festival satisfaction, peer relationships improvement and re-participation intention. *Journal of Korean Dance*, 18(4), 77-106. (In Korean)
+5. Chung, W., **Lee, J.**, Kim, S., & Jeong, C. (2022). The effect of college festival experience on college-life satisfaction, college festival satisfaction, peer relationships improvement and re-participation intention. *Journal of Korean Dance*, 18(4), 77-106. (In Korean)
 
-6. 🏙️ **Lee, J.**, & Jeong, C. (2022). The effect of emotional solidarity of local residents on tourism development support: Focusing on the near Hongdae area. *Journal of Tourism Sciences*, 46(7), 97-120. (In Korean)
+6. **Lee, J.**, & Jeong, C. (2022). The effect of emotional solidarity of local residents on tourism development support: Focusing on the near Hongdae area. *Journal of Tourism Sciences*, 46(7), 97-120. (In Korean)
 
-7. 🚢 Kim, H., **Lee, J.**, & Jeong, C. (2022). Effects of COVID-19 perception on cruise tourist behavioral intention using the theory of planned behavior: Focusing on cruise experience moderating effect. *Journal of Tourism Studies*, 34(3), 89-112. (In Korean)
+7. Kim, H., **Lee, J.**, & Jeong, C. (2022). Effects of COVID-19 perception on cruise tourist behavioral intention using the theory of planned behavior: Focusing on cruise experience moderating effect. *Journal of Tourism Studies*, 34(3), 89-112. (In Korean)
 
-8. 🌿 **Lee, J.**, Kim, N., & Jeong, C. (2022). Effects of carbon emission media reports on eco-friendly tourism behavior intention. *Journal of Tourism Sciences*, 46(5), 87-111. (In Korean)
+8. **Lee, J.**, Kim, N., & Jeong, C. (2022). Effects of carbon emission media reports on eco-friendly tourism behavior intention. *Journal of Tourism Sciences*, 46(5), 87-111. (In Korean)
 
-9. 🐘 **Lee, J.**, Kim, S., & Jeong, C. (2022). A study on the perception of African safari tourist attractions using text mining: Based on English online reviews. *Journal of Tourism Studies*, 34(2), 223-248. (In Korean)
+9. **Lee, J.**, Kim, S., & Jeong, C. (2022). A study on the perception of African safari tourist attractions using text mining: Based on English online reviews. *Journal of Tourism Studies*, 34(2), 223-248. (In Korean)
 
 ---
 
