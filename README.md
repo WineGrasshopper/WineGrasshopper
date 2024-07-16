@@ -69,6 +69,22 @@ const anmol = {
     </ul>
 </div>
 
+<h1>📑 Refereed Conference Presentations</h1>
+
+<div class="presentation-section">
+    <ul class="presentation-details">
+        <li>Roh, H., Lee, J., & Lee, S. (2024 July). Does the atmosphere of night tourism influence authenticity? A focus on night tourism in palaces. Presented at the 96th Tourism Sciences Society of Korea (TOSOK) International Conference. Yeosu, Korea.</li>
+        <li>Joo, H., Lee, S., Lee, J., & No, J. (2024 February). Research on revitalizing island tourism through analysis of tourist perception: Focusing on Baengnyeong Island, Daecheong Island, and Yeonpyeong Island. Presented at the 95th Tourism Sciences Society of Korea (TOSOK) International Conference. Tongyeong, Korea. (Best Paper Award)</li>
+        <li>Lee, J., Chung, W., & Jeong, C. (2023 June). Trend assessment on African safari tourism applying dynamic topic modeling: A case of Tanzania online reviews in English. Presented at the 94th Tourism Sciences Society of Korea (TOSOK) International Conference. Jeju, Korea.</li>
+        <li>Lee, J., & Jeong, C. (2023 February). Revitalization strategies for tourism destinations in population decline areas using convolutional neural networks and text mining: Focusing on Ganghwa county, Incheon. Presented at the 93rd Tourism Sciences Society of Korea (TOSOK) International Conference. Incheon, Korea.</li>
+        <li>Chung, W., Lee, J., Kim, S., & Jeong, C. (2022 July). The effect of college festival experience on college-life satisfaction, college festival satisfaction, peer relationships improvement and re-participation intention. Presented at the 92nd Tourism Sciences Society of Korea (TOSOK) International Conference. Busan, Korea.</li>
+        <li>Lee, J., Kim, S., & Jeong, C. (2022 July). Analyzing preferred scenes in South Korea fishing villages with convolutional neural networks and image feature vector clustering. Presented at the 92nd Tourism Sciences Society of Korea (TOSOK) International Conference. Busan, Korea.</li>
+        <li>Kim, H., Lee J., & Jeong, C. (2022 February). A study on tourist behavior based on previous cruise experiences in the with Covid-19. Presented at the 91st Tourism Sciences Society of Korea (TOSOK) International Conference. Gangwon, Korea.</li>
+        <li>Lee J., & Jeong, C. (2022 February). The impact of Hongdae residents’ emotional solidarity with tourists on support for tourism development. Presented at the 91st Tourism Sciences Society of Korea (TOSOK) International Conference. Gangwon, Korea.</li>
+    </ul>
+</div>
+
+
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
