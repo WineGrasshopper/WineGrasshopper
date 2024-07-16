@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm WineGrasshopper</h1>
 <h3 align="center">Hi, I'm WineGrasshopper. I majored in hospitality and tourism. I'm interested in big data, machine & deep learning, smart cities, tourism, and travel behavior. Currently, I'm a Ph.D. candidate in Korea, graduating in March 2024.</h3>
 
+
+
 - 🌱 I’m currently learning **data science, spatial analysis**
 - 📝 I'm always working on an **SSCI article**
 - 💬 If you have any questions, please contact **winegrasshopper@gmail.com**
