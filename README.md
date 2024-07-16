@@ -171,7 +171,7 @@ const anmol = {
     </ul>
 </div>
 
-🔬 Patents</h1>
+<h1>🔬 Patents</h1>
 
 <div class="patent-section">
     <ul class="patent-details">
