@@ -2,6 +2,8 @@
 <h3 align="center">Hi, This is WineGrasshopper, a researcher who studying social science and data science.</h3>
 
 - 🌱 I’m currently learning **data science, spatial analysis**
+- 📝 I'm always working on an **SSCI article**
+- 💬 If you have any questions, please contact **winegrasshopper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
