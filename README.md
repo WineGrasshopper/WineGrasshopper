@@ -7,7 +7,39 @@ From a young age, I have been driven by a unique curiosity to explore diverse ac
 - 💬 Im interested in **big data, machine & deep learning, smart cities and tourism, travel behavior**
 - 📝 I'm always working on an **SSCI article**
 
-markdownCopy# 💫 Academic and Work Experience
+  # 👨‍💻 About Me
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    majorResearchSkills: [
+        "Qualitative Research", "Quantitative Research", 
+        "Mixed Method Critical Thinking", "Research Design", 
+        "Digital Research Tools", "Data Collection", 
+        "Data Modeling", "Data Analysis"
+    ],
+    languages: ["Korean(Native)", "English(Advanced)"],
+    code: [
+        "Python", "Javascript", "Bootstrap", 
+        "HTML", "CSS", "Tensorflow", 
+        "Pytorch", "OpenCV", "Scikit-learn"
+    ],
+    statistic: ["SPSS", "SAS", "AMOS", "ArcGIS"],
+    askMeAbout: ["social science researcher", "web dev", "tech", "app dev"],
+    technologies: {
+        backEnd: {
+            js: ["Node"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS"],
+        databases: ["MySQL"],
+    },
+};
+```
+
+💫 Academic and Work Experience
 
 ## 🎓 Hanyang University Transformation Tourism Education-Research Team, Seoul, Korea
 
@@ -45,37 +77,7 @@ markdownCopy# 💫 Academic and Work Experience
 
 ---
 
-# 👨‍💻 About Me
 
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    majorResearchSkills: [
-        "Qualitative Research", "Quantitative Research", 
-        "Mixed Method Critical Thinking", "Research Design", 
-        "Digital Research Tools", "Data Collection", 
-        "Data Modeling", "Data Analysis"
-    ],
-    languages: ["Korean(Native)", "English(Advanced)"],
-    code: [
-        "Python", "Javascript", "Bootstrap", 
-        "HTML", "CSS", "Tensorflow", 
-        "Pytorch", "OpenCV", "Scikit-learn"
-    ],
-    statistic: ["SPSS", "SAS", "AMOS", "ArcGIS"],
-    askMeAbout: ["social science researcher", "web dev", "tech", "app dev"],
-    technologies: {
-        backEnd: {
-            js: ["Node"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS"],
-        databases: ["MySQL"],
-    },
-};
-```
 
 ## 🔍 Key Highlights
 
