@@ -28,7 +28,6 @@ const anmol = {
         },
         devOps: ["AWS"],
         databases: ["MySql"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
 };
 ```
