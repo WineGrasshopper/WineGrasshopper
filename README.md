@@ -6,6 +6,133 @@ From a young age, I have been driven by a unique curiosity to explore diverse ac
 - 🌱 I’m currently learning **data science, spatial analysis**
 - 💬 Im interested in **big data, machine & deep learning, smart cities and tourism, travel behavior**
 - 📝 I'm always working on an **SSCI article**
+
+
+// HTML 요소 생성 함수
+function createEl(tag, className, text) {
+    const el = document.createElement(tag);
+    if (className) el.className = className;
+    if (text) el.textContent = text;
+    return el;
+}
+
+// 경험 섹션 생성 함수
+function createExperienceSection(title, position, details) {
+    const section = createEl('div', 'experience-section');
+    section.appendChild(createEl('div', 'experience-title', title));
+    section.appendChild(createEl('div', 'experience-position', position));
+    
+    const ul = createEl('ul', 'experience-details');
+    details.forEach(detail => {
+        ul.appendChild(createEl('li', '', detail));
+    });
+    section.appendChild(ul);
+    
+    return section;
+}
+
+// 메인 함수
+function createAnimatedExperience() {
+    const container = document.getElementById('experience-container');
+    
+    const header = createEl('h1', 'animated-header', '💫 Academic and Work Experience');
+    container.appendChild(header);
+    
+    const experiences = [
+        {
+            title: 'Hanyang University Transformation Tourism Education-Research Team, Seoul, Korea',
+            position: 'BK (Brain Korea)21 Researcher: March 2021 – February 2024',
+            details: [
+                'Research achievements: 8 journal publications, 7 international conference presentations, 11 academic and practical awards, 2 research projects conducted, 1 patent application prepared, and 5 press mentions.',
+                'Conducting research based on tourists' behavior, smart tourism and city, and big data',
+                'Collaborated with interdisciplinary teams to conduct comprehensive studies and generate valuable insights'
+            ]
+        },
+        {
+            title: 'KISTI (Korea Institute of Science and Technology Information), Daejeon, Korea',
+            position: 'Contract Worker: August 2020 – February 2021',
+            details: [
+                'Construction of text data using science and technology machine learning data',
+                'Unstructured data purification and management',
+                'Helped in development of new procedures and processes to improve work performance'
+            ]
+        }
+    ];
+    
+    experiences.forEach((exp, index) => {
+        const section = createExperienceSection(exp.title, exp.position, exp.details);
+        section.style.opacity = '0';
+        section.style.transform = 'translateY(20px)';
+        container.appendChild(section);
+        
+        setTimeout(() => {
+            section.style.transition = 'opacity 0.5s, transform 0.5s';
+            section.style.opacity = '1';
+            section.style.transform = 'translateY(0)';
+        }, index * 500);
+    });
+}
+
+// 스타일 추가
+const style = document.createElement('style');
+style.textContent = `
+    .animated-header {
+        animation: rainbow 5s infinite;
+    }
+    @keyframes rainbow {
+        0% {color: red;}
+        14% {color: orange;}
+        28% {color: yellow;}
+        42% {color: green;}
+        57% {color: blue;}
+        71% {color: indigo;}
+        85% {color: violet;}
+        100% {color: red;}
+    }
+    .experience-section {
+        margin-bottom: 20px;
+        padding: 15px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        transition: box-shadow 0.3s;
+    }
+    .experience-section:hover {
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .experience-title {
+        font-weight: bold;
+        font-size: 1.1em;
+    }
+    .experience-position {
+        font-style: italic;
+        margin-bottom: 10px;
+    }
+    .experience-details li {
+        margin-bottom: 5px;
+    }
+`;
+document.head.appendChild(style);
+
+// 페이지 로드 시 실행
+window.onload = createAnimatedExperience;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
