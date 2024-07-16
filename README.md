@@ -56,17 +56,7 @@ gantt
     Contract Worker           :2020-08-01, 2021-02-28
     section Hanyang University
     BK21 Researcher           :2021-03-01, 2024-02-29
-
-
-
-
-
-
-
-
-
-
-
+```
 
 
 # 👨‍💻 About Me
