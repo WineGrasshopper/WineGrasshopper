@@ -12,6 +12,8 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
+    Major Research Skills : ["Qualitative Research", "Quantitative Research", "Mixed Method Critical Thinking", "Research Design", "Digital Research Tools", "Data Collection", "Data Modeling", "Data Analysis"],
+    Langaguages : ["Korean(Native)", "English(Advanced)"],
     code: ["Python", "Javascript", "Bootstrapt", "HTML", "CSS", "Tensorflow", "Pytorch", "OpenCV", "Scikit-learn"],
     Statistic : ["SPSS", "SAS", "AMOS", "ArcGis"],
     askMeAbout: ["social science researcher", "web dev", "tech", "app dev"],
@@ -81,130 +83,6 @@ const anmol = {
         <li>Lee, J., Kim, S., & Jeong, C. (2022 July). Analyzing preferred scenes in South Korea fishing villages with convolutional neural networks and image feature vector clustering. Presented at the 92nd Tourism Sciences Society of Korea (TOSOK) International Conference. Busan, Korea.</li>
         <li>Kim, H., Lee J., & Jeong, C. (2022 February). A study on tourist behavior based on previous cruise experiences in the with Covid-19. Presented at the 91st Tourism Sciences Society of Korea (TOSOK) International Conference. Gangwon, Korea.</li>
         <li>Lee J., & Jeong, C. (2022 February). The impact of Hongdae residents’ emotional solidarity with tourists on support for tourism development. Presented at the 91st Tourism Sciences Society of Korea (TOSOK) International Conference. Gangwon, Korea.</li>
-    </ul>
-</div>
-
-<h1>🏅 Honors and Awards</h1>
-
-<div class="awards-section">
-    <ul class="awards-details">
-        <li>
-            <strong>Best Paper Award, The 95th TOSOK International Tourism Conference, Korea.</strong> 2024
-            <ul>
-                <li>Best conference paper award</li>
-                <li>Paper Title: Research on revitalizing island tourism through analysis of tourist perception: Focusing on Baengnyeong Island, Daecheong Island, and Yeonpyeong Island.</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Excellence Prize, KAKAO & Korea Tourism Organization (KTO) & Busan Tourism Organization, Korea (BTO).</strong> 2023
-            <ul>
-                <li>Build a website using Python, SQL, JS, API</li>
-                <li>Link: <a href="http://tourwalking.com" target="_blank">tourwalking.com</a> (Service deadline: Second half of 2024)</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Young Researcher Awards, Journal of Tourism Studies, Korea.</strong> 2023
-            <ul>
-                <li>Selected as the most outstanding emerging researcher</li>
-                <li>Paper Title: Effects of COVID-19 perception on cruise tourist behavioral intention using the theory of planned behavior: Focusing on cruise experience moderating effect</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Young Researcher Awards, Journal of Tourism Studies, Korea.</strong> 2023
-            <ul>
-                <li>Selected as the most outstanding emerging researcher</li>
-                <li>Paper Title: A study on the perception of African safari tourist attractions using text mining: Based on English online reviews. Journal of Tourism Studies</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Outstanding Researcher Awards, Hanyang University Transformation Tourism Education-Research Team, Korea.</strong> 2023
-            <ul>
-                <li>Selected as the most outstanding graduate student in 2022-2 at Hanyang University transformation tourism education-research Team</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Best Research Awards, Korea Maritime Institute (KMI), Korea.</strong> 2022
-            <ul>
-                <li>Best research awards are selected among studies that receive research grants</li>
-                <li>Paper Title: Analyzing preferred scenes in South Korea fishing villages with convolutional neural networks and image feature vector clustering</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Outstanding Researcher Awards, Hanyang University Transformation Tourism Education-Research Team, Korea.</strong> 2022
-            <ul>
-                <li>Selected as the most outstanding graduate student in 2022-1 at Hanyang University transformation tourism education-research Team</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Grand Prize, Korea Tourism Organization (KTO), Korea.</strong> 2022
-            <ul>
-                <li>Case study-based competition to revitalize international tourism exchange and cooperation</li>
-                <li>Paper Title: Even festivals need a diet!</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Excellence Prize, Korea Tourism Organization (KTO), Korea.</strong> 2021
-            <ul>
-                <li>The 1st Korea tourism lab excellent use case contest</li>
-                <li>Paper Title: Finding the pearl of data in the deep sea of COVID-19</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Excellence Prize, Ministry of Culture, Sports, and Tourism & The Tourism Sciences Society of Korea, Korea.</strong> 2021
-            <ul>
-                <li>The tourism industry job fair eider competition</li>
-                <li>Paper Title: Proposal for new tourism professions in the era of 10 million per owners</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Excellence Prize, The Tourism Sciences Society of Korea, Korea.</strong> 2021
-            <ul>
-                <li>The tourism big data research contest</li>
-                <li>Paper Title: Demand forecast and ripple effects of favorable tourism types in the COVID-19</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Graduate Academic Excellence Award, Kyung Hee University, Korea.</strong> 2021
-            <ul>
-                <li>Selected as the most outstanding graduate student in 2018-2020 at Kyung Hee University</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Academic Excellence Scholarship, Kyung Hee University, Korea.</strong> 2020
-            <ul>
-                <li>Selected as the most outstanding graduate student in 2020-1 at Kyung Hee University</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Academic Excellence Scholarship, Kyung Hee University, Korea.</strong> 2019
-            <ul>
-                <li>Selected as the most outstanding graduate student in 2019-1 at Kyung Hee University</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Academic Excellence Scholarship, Kyung Hee University, Korea.</strong> 2018
-            <ul>
-                <li>Selected as the most outstanding graduate student in 2018-1 at Kyung Hee University</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Academic Excellence Scholarship, Youngdong University, Korea.</strong> 2018
-            <ul>
-                <li>Selected as the most outstanding university student in 2017-2 at Youngdong University</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Academic Excellence Scholarship, Youngdong University, Korea.</strong> 2017
-            <ul>
-                <li>Selected as the most outstanding university student in 2017-1 at Youngdong University</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Consolation Prize, Yeongchen & Korea International Sommerlier Association, Korea.</strong> 2016
-            <ul>
-                <li>The 4th university student Yeongcheon wine proposal presentation contest</li>
-            </ul>
-        </li>
     </ul>
 </div>
 
