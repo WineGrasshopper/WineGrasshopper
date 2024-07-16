@@ -39,7 +39,7 @@ const anmol = {
 };
 ```
 
-💫 Academic and Work Experience
+  # 💫 Academic and Work Experience
 
 ## 🎓 Hanyang University Transformation Tourism Education-Research Team, Seoul, Korea
 
