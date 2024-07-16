@@ -11,18 +11,26 @@
 <p align="left">
 </p>
 
-💫 Academic and Work Experience
-○ Hanyang University Transformation Tourism Education-Research Team, Seoul, Korea
-  BK (Brain Korea)21 Researcher: March 2021 – February 2024
-•	Research achievements: 8 journal publications, 7 international conference presentations, 11 academic and practical awards, 2 research projects conducted, 1 patent application prepared, and 5 press mentions.
-•	Conducting research based on tourists’ behavior, smart tourism and city, and big data
-•	Collaborated with interdisciplinary teams to conduct comprehensive studies and generate valuable insights
+<h1>💫 Academic and Work Experience</h1>
+<div class="experience-section">
+    <div class="experience-title">Hanyang University Transformation Tourism Education-Research Team, Seoul, Korea</div>
+    <div class="experience-position">BK (Brain Korea)21 Researcher: March 2021 – February 2024</div>
+    <ul class="experience-details">
+        <li>Research achievements: 8 journal publications, 7 international conference presentations, 11 academic and practical awards, 2 research projects conducted, 1 patent application prepared, and 5 press mentions.</li>
+        <li>Conducting research based on tourists’ behavior, smart tourism and city, and big data</li>
+        <li>Collaborated with interdisciplinary teams to conduct comprehensive studies and generate valuable insights</li>
+    </ul>
+</div>
 
-○ KISTI (Korea Institute of Science and Technology Information), Daejeon, Korea
-  Contract Worker: August 2020 – February 2021
-•	Construction of text data using science and technology machine learning data
-•	Unstructured data purification and management
-•	Helped in development of new procedures and processes to improve work performance
+<div class="experience-section">
+    <div class="experience-title">KISTI (Korea Institute of Science and Technology Information), Daejeon, Korea</div>
+    <div class="experience-position">Contract Worker: August 2020 – February 2021</div>
+    <ul class="experience-details">
+        <li>Construction of text data using science and technology machine learning data</li>
+        <li>Unstructured data purification and management</li>
+        <li>Helped in development of new procedures and processes to improve work performance</li>
+    </ul>
+</div>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
