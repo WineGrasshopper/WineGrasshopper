@@ -13,18 +13,18 @@ markdownCopy# 💫 Academic and Work Experience
 
 > **BK (Brain Korea)21 Researcher** | *March 2021 – February 2024*
 
-### 🏆 Achievements
+### 🚀 Research Achievements
 - 📚 8 journal publications
 - 🎤 7 international conference presentations
-- 🥇 11 academic and practical awards
+- 🏆 11 academic and practical awards
 - 🔬 2 research projects conducted
 - 📜 1 patent application prepared
 - 📰 5 press mentions
 
 ### 🌟 Key Contributions
-- 🧳 Conducted research on tourists' behavior, smart tourism, and city development
-- 🌐 Utilized big data for comprehensive analysis
-- 🤝 Collaborated with interdisciplinary teams for valuable insights
+- 🧳 Conducted research on tourists' behavior, smart tourism, and urban development
+- 🌐 Leveraged big data for comprehensive analysis
+- 🤝 Collaborated with interdisciplinary teams to generate valuable insights
 
 ---
 
@@ -32,20 +32,21 @@ markdownCopy# 💫 Academic and Work Experience
 
 > **Contract Worker** | *August 2020 – February 2021*
 
-### 💼 Responsibilities
+### 💼 Key Responsibilities
 - 🤖 Constructed text data using science and technology machine learning
 - 🧹 Managed and purified unstructured data
-- 📈 Improved work processes and procedures
+- 📈 Developed new procedures and processes to improve work performance
 
-### 🛠️ Skills Developed
-- Data Processing
-- Machine Learning
+### 🛠️ Skills Applied & Developed
+- Data Processing & Analysis
+- Machine Learning Techniques
 - Process Optimization
+- Scientific Text Mining
 
 ---
 
 <details>
-<summary>📊 Click here for a visual representation of my experience</summary>
+<summary>📊 Click to view my career timeline</summary>
 
 ```mermaid
 gantt
@@ -55,9 +56,6 @@ gantt
     Contract Worker           :2020-08-01, 2021-02-28
     section Hanyang University
     BK21 Researcher           :2021-03-01, 2024-02-29
-
-
-
 
 
 
