@@ -7,11 +7,6 @@ From a young age, I have been driven by a unique curiosity to explore diverse ac
 - 💬 Im interested in **big data, machine & deep learning, smart cities and tourism, travel behavior**
 - 📝 I'm always working on an **SSCI article**
   
-<div class="center">
-    <h3>### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...</h3>
-    <img src="C:/Users/wogus/OneDrive/바탕 화면/winegrasshopper_complex.gif" alt="My GIF" class="gif-image" width="300">
-</div>
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
