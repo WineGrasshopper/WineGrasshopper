@@ -51,34 +51,6 @@ const anmol = {
 
 Feel free to reach out if you want to discuss research, web development, or tech in general!
 
-
-
-
-
-  
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    Major Research Skills : ["Qualitative Research", "Quantitative Research", "Mixed Method Critical Thinking", "Research Design", "Digital Research Tools", "Data Collection", "Data Modeling", "Data Analysis"],
-    Langaguages : ["Korean(Native)", "English(Advanced)"],
-    code: ["Python", "Javascript", "Bootstrapt", "HTML", "CSS", "Tensorflow", "Pytorch", "OpenCV", "Scikit-learn"],
-    Statistic : ["SPSS", "SAS", "AMOS", "ArcGis"],
-    askMeAbout: ["social science researcher", "web dev", "tech", "app dev"],
-    technologies: {
-        backEnd: {
-            js: ["Node"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS"],
-        databases: ["MySql"],
-    },
-};
-```
-
 <h3 align="left">Connect with me: winegrasshopper@gmail.com</h3>
     
 <h1>💫 Academic and Work Experience</h1>
