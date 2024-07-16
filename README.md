@@ -9,42 +9,37 @@ From a young age, I have been driven by a unique curiosity to explore diverse ac
 
 <h1>💫 Academic and Work Experience</h1>
 
-document.addEventListener("DOMContentLoaded", function() {
-    const sections = document.querySelectorAll(".experience-section");
-
-    sections.forEach(section => {
-        section.addEventListener("click", function() {
-            const details = this.querySelector(".experience-details");
-            if (details.style.display === "block") {
-                details.style.display = "none";
-            } else {
-                details.style.display = "block";
-            }
-        });
-    });
-});
-
-document.body.innerHTML = `
-<h1>💫 Academic and Work Experience</h1>
-<div class="experience-section">
+<div class="experience-section" onclick="toggleDetails('details1')">
     <div class="experience-title">Hanyang University Transformation Tourism Education-Research Team, Seoul, Korea</div>
     <div class="experience-position">BK (Brain Korea)21 Researcher: March 2021 – February 2024</div>
-    <ul class="experience-details" style="display: none;">
+    <ul id="details1" class="experience-details" style="display: none;">
         <li>Research achievements: 8 journal publications, 7 international conference presentations, 11 academic and practical awards, 2 research projects conducted, 1 patent application prepared, and 5 press mentions.</li>
         <li>Conducting research based on tourists’ behavior, smart tourism and city, and big data</li>
         <li>Collaborated with interdisciplinary teams to conduct comprehensive studies and generate valuable insights</li>
     </ul>
 </div>
-<div class="experience-section">
+
+<div class="experience-section" onclick="toggleDetails('details2')">
     <div class="experience-title">KISTI (Korea Institute of Science and Technology Information), Daejeon, Korea</div>
     <div class="experience-position">Contract Worker: August 2020 – February 2021</div>
-    <ul class="experience-details" style="display: none;">
+    <ul id="details2" class="experience-details" style="display: none;">
         <li>Construction of text data using science and technology machine learning data</li>
         <li>Unstructured data purification and management</li>
         <li>Helped in development of new procedures and processes to improve work performance</li>
     </ul>
 </div>
-`;
+
+<script>
+    function toggleDetails(id) {
+        var details = document.getElementById(id);
+        if (details.style.display === "none") {
+            details.style.display = "block";
+        } else {
+            details.style.display = "none";
+        }
+    }
+</script>
+
 
 
 
