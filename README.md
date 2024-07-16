@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm WineGrasshopper</h1>
 <h3 align="center">Hi, I'm WineGrasshopper. I majored in hospitality and tourism. Currently, I'm a Ph.D. candidate in Korea, graduating in March 2024.</h3>
 
-<div style="text-align: center;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNuamEybzZhZGs5MHVmcGF1NmhjOGUzMmw0d2prc2xpZzRzbnZlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaNFVGcYZ46CD1bnYm/giphy.gif" alt="My GIF" width="300">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNuamEybzZhZGs5MHVmcGF1NmhjOGUzMmw0d2prc2xpZzRzbnZlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaNFVGcYZ46CD1bnYm/giphy.gif" alt="My GIF" width="300">
-</div>
 From a young age, I have been driven by a unique curiosity to explore diverse academic fields. This led to my deep dive into social sciences, enriched by expertise in big data analytics, data literacy, and statistics. My work has been recognized in prestigious journals and awards in big data. My roles at Hanyang University and the Korea Institute of Science and Technology honed my multidisciplinary approach, instrumental in my doctoral research on tourist behavior and smart tourism and city. This background has enabled me to bridge methodological gaps in social sciences and address complex phenomena in science and engineering disciplines, enhancing my research capabilities.
 
 - 🌱 I’m currently learning **data science, spatial analysis**
