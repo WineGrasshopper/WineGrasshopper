@@ -45,20 +45,6 @@ markdownCopy# 💫 Academic and Work Experience
 
 ---
 
-<details>
-<summary>📊 Click to view my career timeline</summary>
-
-```mermaid
-gantt
-    title My Career Timeline
-    dateFormat  YYYY-MM-DD
-    section KISTI
-    Contract Worker           :2020-08-01, 2021-02-28
-    section Hanyang University
-    BK21 Researcher           :2021-03-01, 2024-02-29
-```
-
-
 # 👨‍💻 About Me
 
 ```javascript
