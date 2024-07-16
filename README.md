@@ -120,6 +120,21 @@ const anmol = {
     </ul>
 </div>
 
+<h1>📜 Certifications and Certificates of Completion</h1>
+
+<div class="certification-section">
+    <ul class="certification-details">
+        <li>
+            <strong>Science policy and diplomacy, University of Arizona Global, USA.</strong> 2022
+        </li>
+        <li>
+            <strong>Foundations: Data, everywhere, Google, USA. (Coursera)</strong> 2022
+        </li>
+        <li>
+            <strong>WSET 3, Wine & Spirit Education Trust, UK.</strong> 2020
+        </li>
+    </ul>
+</div>
 
 
 
