@@ -7,6 +7,27 @@
 - 💬 Im interested in **big data, machine & deep learning, smart cities and tourism, travel behavior**
 - 📝 I'm always working on an **SSCI article**
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Python", "Javascript", "Bootstrapt", "HTML", "CSS", "Tensorflow", "Pytorch", "OpenCV", "Scikit-learn"],
+    Statistic : ["SPSS", "SAS", "AMOS", "ArcGis"],
+    askMeAbout: ["social science researcher", "web dev", "tech", "app dev"],
+    technologies: {
+        backEnd: {
+            js: ["Node"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS"],
+        databases: ["MySql"],
+    },
+};
+```
+
 <h3 align="left">Connect with me: winegrasshopper@gmail.com</h3>
 <p align="left">
 </p>
@@ -48,26 +69,7 @@
     </ul>
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Python", "Javascript", "Bootstrapt", "HTML", "CSS", "Tensorflow", "Pytorch", "OpenCV", "Scikit-learn"],
-    Statistic : ["SPSS", "SAS", "AMOS", "ArcGis"],
-    askMeAbout: ["social science researcher", "web dev", "tech", "app dev"],
-    technologies: {
-        backEnd: {
-            js: ["Node"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS"],
-        databases: ["MySql"],
-    },
-};
-```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
