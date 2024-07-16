@@ -109,7 +109,7 @@ const anmol = {
 
 - Total Publications: 9
 - First Author Publications: 6
-- International Journals: 1 (Under Review)
+- International Journals: 1 (With Journal Administrator)
 - Korean Journals: 8
 - Main Research Areas: Big data, AI tourism, Smart tourism, travel behavior 
 
