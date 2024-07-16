@@ -7,6 +7,69 @@ From a young age, I have been driven by a unique curiosity to explore diverse ac
 - 💬 Im interested in **big data, machine & deep learning, smart cities and tourism, travel behavior**
 - 📝 I'm always working on an **SSCI article**
 
+markdownCopy# 💫 Academic and Work Experience
+
+## 🎓 Hanyang University Transformation Tourism Education-Research Team, Seoul, Korea
+
+> **BK (Brain Korea)21 Researcher** | *March 2021 – February 2024*
+
+### 🏆 Achievements
+- 📚 8 journal publications
+- 🎤 7 international conference presentations
+- 🥇 11 academic and practical awards
+- 🔬 2 research projects conducted
+- 📜 1 patent application prepared
+- 📰 5 press mentions
+
+### 🌟 Key Contributions
+- 🧳 Conducted research on tourists' behavior, smart tourism, and city development
+- 🌐 Utilized big data for comprehensive analysis
+- 🤝 Collaborated with interdisciplinary teams for valuable insights
+
+---
+
+## 🏢 KISTI (Korea Institute of Science and Technology Information), Daejeon, Korea
+
+> **Contract Worker** | *August 2020 – February 2021*
+
+### 💼 Responsibilities
+- 🤖 Constructed text data using science and technology machine learning
+- 🧹 Managed and purified unstructured data
+- 📈 Improved work processes and procedures
+
+### 🛠️ Skills Developed
+- Data Processing
+- Machine Learning
+- Process Optimization
+
+---
+
+<details>
+<summary>📊 Click here for a visual representation of my experience</summary>
+
+```mermaid
+gantt
+    title My Career Timeline
+    dateFormat  YYYY-MM-DD
+    section KISTI
+    Contract Worker           :2020-08-01, 2021-02-28
+    section Hanyang University
+    BK21 Researcher           :2021-03-01, 2024-02-29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 👨‍💻 About Me
 
