@@ -136,6 +136,20 @@ const anmol = {
     </ul>
 </div>
 
+🔬 Patents</h1>
+
+<div class="patent-section">
+    <ul class="patent-details">
+        <li>
+            <strong>Walking travel safety index and management system, Korean Intellectual Property Office, Korea.</strong> 2025 (Expected)
+            <ul>
+                <li>Following the award-winning project with KAKAO, Korea Tourism Organization (KTO), and Busan Tourism Organization (BTO), discussions were held with the university's patent attorney in April 2024 for potential patent development.</li>
+                <li>It is anticipated that the patent will be issued as early as late 2024 or early 2025.</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
