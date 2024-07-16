@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm WineGrasshopper</h1>
-<h3 align="center">Hi, This is WineGrasshopper, a researcher who studying social science and data science.</h3>
+<h3 align="center">Hi, This is WineGrasshopper, a researcher who studying social science and data science. I majored in tourism and hospitality, and i'm very interested in big data, machine & deep learning, smart city and tourism, travel behavior. I'm currently in my Ph.D. candidate in Korea, and I will graduate in March 2024. </h3>
 
 - 🌱 I’m currently learning **data science, spatial analysis**
 - 📝 I'm always working on an **SSCI article**
