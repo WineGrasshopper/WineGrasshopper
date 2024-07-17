@@ -161,7 +161,7 @@ const anmol = {
 ### Establishment of Master Plan for DMZ Tourism Development Resources, 2023
 - **Key Responsibilities**
   - 📈 Developed master plan and marketing strategies for tourism development resources in the DMZ area
-  - 🏆 Achieved best research at the 95th TOSOK International Tourism Conference and published in the Journal of Korean Dance
+  - 🏆 Achieved best research at the <i>95th TOSOK International Tourism Conference</i> and published in the <i>Journal of Korean Dance</i>
 
 - **Skills Applied & Developed**
   - Master Planning
@@ -183,7 +183,7 @@ const anmol = {
   - Strategic Development
   - Data-Driven Decision Making
 
-  # 📜 Certifications and Certificates of Completion
+# 📜 Certifications and Certificates of Completion
   
 <div class="certification-section">
     <ul class="certification-details">
