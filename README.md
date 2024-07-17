@@ -138,7 +138,7 @@ const anmol = {
 </body>
 </html>
 
-  # 🔧 Service Projects
+# 🔧 Service Projects
   
 ## Seoul Facilities Corporation, Korea
 **Researcher (Project Leader)**  
@@ -199,7 +199,7 @@ const anmol = {
     </ul>
 </div>
 
-  # 🔬 Patents
+# 🔬 Patents
 <div class="patent-section">
     <ul class="patent-details">
         <li>
