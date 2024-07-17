@@ -138,8 +138,8 @@ const anmol = {
 </body>
 </html>
 
-<h1>🔧 Service Projects</h1>
-
+  # 🔧 Service Projects
+  
 ## Seoul Facilities Corporation, Korea
 **Researcher (Project Leader)**  
 *Project Manager: Prof. Jeong Chul*  
@@ -183,8 +183,8 @@ const anmol = {
   - Strategic Development
   - Data-Driven Decision Making
 
-<h1>📜 Certifications and Certificates of Completion</h1>
-
+  # 📜 Certifications and Certificates of Completion
+  
 <div class="certification-section">
     <ul class="certification-details">
         <li>
@@ -199,8 +199,7 @@ const anmol = {
     </ul>
 </div>
 
-<h1>🔬 Patents</h1>
-
+  # 🔬 Patents
 <div class="patent-section">
     <ul class="patent-details">
         <li>
