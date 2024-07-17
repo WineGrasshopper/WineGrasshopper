@@ -184,39 +184,14 @@ const anmol = {
   - Big Data Analysis
   - Strategic Development
   - Data-Driven Decision Making
- 
-<div class="project-section">
-    <ul class="project-details">
-        <li>
-            <strong>Statistical analysis and report writing for integrity survey of Seoul facilities management corporation, 2024</strong><br>
-            Seoul Facilities Corporation, Korea<br>
-            Researcher (Project Leader) (Project Manager: Prof. Jeong Chul)
-            <ul>
-                <li>Data cleaning and analyzing 1,422 data for self-integrity surveys</li>
-                <li>The analysis suggests specific practical implications compared to last year</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Establishment of master plan for DMZ tourism development resources in Ongingun, 2023</strong><br>
-            Ongingun, Korea<br>
-            Researcher (Project Leader) (Project Manager: Prof. Jeong Chul)
-            <ul>
-                <li>Present master plan and marketing strategies for tourism development resources, focusing on the DMZ area</li>
-                <li>Best research in the 95th TOSOK International Tourism Conference and 1 publication in Journal of Korean Dance</li>
-            </ul>
-        </li>
-        <li>
-            <strong>A study on big data analysis of population declined areas and tourism-centered response strategies, 2022</strong><br>
-            Korea Tourism Organization (KTO), Korea<br>
-            Researcher (Project Leader) (Project Manager: Prof. Jeong Chul)
-            <ul>
-                <li>Data cleaning and analyzing 1.5 million data, including card consumption data and floating population data</li>
-                <li>Directions and specific strategies for 107 areas where population decline occurs</li>
-            </ul>
-        </li>
-    </ul>
-</div>
 
+ # Certifications and Certificates of Completion
+
+- **Science Policy and Diplomacy**, University of Arizona Global, USA. 2022
+- **Foundations: Data, Everywhere**, Google, USA. (Coursera) 2022
+- **WSET 3**, Wine & Spirit Education Trust, UK. 2020
+
+  
 <h1>📜 Certifications and Certificates of Completion</h1>
 
 <div class="certification-section">
