@@ -140,8 +140,6 @@ const anmol = {
 
 <h1>🔧 Service Projects</h1>
 
-# Professional Experience
-
 ## Seoul Facilities Corporation, Korea
 **Researcher (Project Leader)**  
 *Project Manager: Prof. Jeong Chul*  
@@ -185,13 +183,6 @@ const anmol = {
   - Strategic Development
   - Data-Driven Decision Making
 
- # Certifications and Certificates of Completion
-
-- **Science Policy and Diplomacy**, University of Arizona Global, USA. 2022
-- **Foundations: Data, Everywhere**, Google, USA. (Coursera) 2022
-- **WSET 3**, Wine & Spirit Education Trust, UK. 2020
-
-  
 <h1>📜 Certifications and Certificates of Completion</h1>
 
 <div class="certification-section">
