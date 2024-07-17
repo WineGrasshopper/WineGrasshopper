@@ -72,10 +72,10 @@ const anmol = {
 - 📈 Developed new procedures and processes to improve work performance
 
 ### 🛠️ Skills Applied & Developed
-- Data Processing & Analysis
-- Machine Learning Techniques
-- Process Optimization
-- Scientific Text Mining
+- 🧹 Data Processing & Analysis
+- 🤖 Machine Learning Techniques
+- ⚙️ Process Optimization
+- 📚 Scientific Text Mining
 
 ---
 
@@ -93,14 +93,14 @@ const anmol = {
 <div class="publication-section">
     <ul class="publication-details">
         <li><strong>Lee, J.</strong> (2024). Unveiling the dark side of safari tourism: Negative guide behaviors from tourists’ perspective. <i>Journal of Hospitality Marketing & Management</i>. (SSCI, Impact factor = 12.5, With Journal Administrator)</li>
-        <li>Joo, H., Lee, S., <strong>Lee, J.</strong>, & Jeong, C. (2024). Research on revitalizing island tourism through analysis of tourist perception: Focusing on Baengnyeong Island, Daecheong Island, and Yeonpyeong Island. <i>Journal of Korean Dance</i>, 20(2), 67-95. (In Korean)</li>
-        <li><strong>Lee, J.</strong>, Chung, W., Kim, S., & Jeong, C. (2023). Trend assessment on African safari tourism applying dynamic topic modeling: A case of Tanzania online reviews in English. <i>Journal of Tourism Sciences</i>, 47(6), 173-194. (In Korean)</li>
-        <li><strong>Lee, J.</strong>, & Jeong, C. (2023). Analyzing preferred scenes in South Korea fishing villages with convolutional neural networks and image feature vector clustering. <i>Journal of Tourism Sciences</i>, 47(3), 97-116. (In Korean)</li>
-        <li>Chung, W., <strong>Lee, J.</strong>, Kim, S., & Jeong, C. (2022). The effect of college festival experience on college-life satisfaction, college festival satisfaction, peer relationships improvement and re-participation intention. <i>Journal of Korean Dance</i>, 18(4), 77-106. (In Korean)</li>
-        <li><strong>Lee, J.</strong>, & Jeong, C. (2022). The effect of emotional solidarity of local residents on tourism development support: Focusing on the near Hongdae area, <i>Journal of Tourism Sciences</i>, 46(7), 97-120. (In Korean)</li>
-        <li>Kim, H., <strong>Lee, J.</strong>, & Jeong, C. (2022). Effects of COVID-19 perception on cruise tourist behavioral intention using the theory of planned behavior: Focusing on cruise experience moderating effect. <i>Journal of Tourism Studies</i>, 34(3), 89-112. (In Korean)</li>
-        <li><strong>Lee, J.</strong>, Kim, N., & Jeong, C. (2022). Effects of carbon emission media reports on eco-friendly tourism behavior intention. <i>Journal of Tourism Sciences</i>, 46(5), 87-111. (In Korean)</li>
-        <li><strong>Lee, J.</strong>, Kim, S., & Jeong, C. (2022). A study on the perception of African safari tourist attractions using text mining: Based on English online reviews. <i>Journal of Tourism Studies</i>, 34(2), 223-248. (In Korean)</li>
+        <li>Joo, H., Lee, S., <strong>Lee, J.</strong>, & Jeong, C. (2024). Research on revitalizing island tourism through analysis of tourist perception: Focusing on Baengnyeong Island, Daecheong Island, and Yeonpyeong Island. <i>Journal of Korean Dance</i>, <i>20</i>(2), 67-95. (In Korean)</li>
+        <li><strong>Lee, J.</strong>, Chung, W., Kim, S., & Jeong, C. (2023). Trend assessment on African safari tourism applying dynamic topic modeling: A case of Tanzania online reviews in English. <i>Journal of Tourism Sciences</i>, <i>47</i>(6), 173-194. (In Korean)</li>
+        <li><strong>Lee, J.</strong>, & Jeong, C. (2023). Analyzing preferred scenes in South Korea fishing villages with convolutional neural networks and image feature vector clustering. <i>Journal of Tourism Sciences</i>, <i>47</i>(3), 97-116. (In Korean)</li>
+        <li>Chung, W., <strong>Lee, J.</strong>, Kim, S., & Jeong, C. (2022). The effect of college festival experience on college-life satisfaction, college festival satisfaction, peer relationships improvement and re-participation intention. <i>Journal of Korean Dance</i>, <i>18</i>i>(4), 77-106. (In Korean)</li>
+        <li><strong>Lee, J.</strong>, & Jeong, C. (2022). The effect of emotional solidarity of local residents on tourism development support: Focusing on the near Hongdae area, <i>Journal of Tourism Sciences</i>, <i>46</i>(7), 97-120. (In Korean)</li>
+        <li>Kim, H., <strong>Lee, J.</strong>, & Jeong, C. (2022). Effects of COVID-19 perception on cruise tourist behavioral intention using the theory of planned behavior: Focusing on cruise experience moderating effect. <i>Journal of Tourism Studies</i>, <i>34</i>(3), 89-112. (In Korean)</li>
+        <li><strong>Lee, J.</strong>, Kim, N., & Jeong, C. (2022). Effects of carbon emission media reports on eco-friendly tourism behavior intention. <i>Journal of Tourism Sciences</i>, <i>46</i>(5), 87-111. (In Korean)</li>
+        <li><strong>Lee, J.</strong>, Kim, S., & Jeong, C. (2022). A study on the perception of African safari tourist attractions using text mining: Based on English online reviews. <i>Journal of Tourism Studies</i>, <i>34</i>(2), 223-248. (In Korean)</li>
     </ul>
 </div>
 
