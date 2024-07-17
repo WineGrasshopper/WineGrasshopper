@@ -50,22 +50,20 @@ const anmol = {
 
 > **BK (Brain Korea)21 Researcher** | *March 2021 – February 2024*
 
-<div style="border: 1px solid #ccc; padding: 10px;">
+---
 
 ### 🚀 Research Achievements
-- 📚 8 journal publications
-- 🎤 7 international conference presentations
-- 🏆 11 academic and practical awards
-- 🔬 2 research projects conducted
-- 📜 1 patent application prepared
-- 📰 5 press mentions
+> - 📚 8 journal publications
+> - 🎤 7 international conference presentations
+> - 🏆 11 academic and practical awards
+> - 🔬 2 research projects conducted
+> - 📜 1 patent application prepared
+> - 📰 5 press mentions
 
 ### 🌟 Key Contributions
-- 🧳 Conducted research on tourists' behavior, smart tourism, and urban development
-- 🌐 Leveraged big data for comprehensive analysis
-- 🤝 Collaborated with interdisciplinary teams to generate valuable insights
-
-</div>
+> - 🧳 Conducted research on tourists' behavior, smart tourism, and urban development
+> - 🌐 Leveraged big data for comprehensive analysis
+> - 🤝 Collaborated with interdisciplinary teams to generate valuable insights
 
 ---
 
@@ -73,21 +71,18 @@ const anmol = {
 
 > **Contract Worker** | *August 2020 – February 2021*
 
-<div style="border: 1px solid #ccc; padding: 10px;">
+---
 
 ### 💼 Key Responsibilities
-- 🤖 Constructed text data using science and technology machine learning
-- 🧹 Managed and purified unstructured data
-- 📈 Developed new procedures and processes to improve work performance
+> - 🤖 Constructed text data using science and technology machine learning
+> - 🧹 Managed and purified unstructured data
+> - 📈 Developed new procedures and processes to improve work performance
 
 ### 🛠️ Skills Applied & Developed
-- 🧹 Data Processing & Analysis
-- 🤖 Machine Learning Techniques
-- ⚙️ Process Optimization
-- 📚 Scientific Text Mining
-
-</div>
-
+> - 🧹 Data Processing & Analysis
+> - 🤖 Machine Learning Techniques
+> - ⚙️ Process Optimization
+> - 📚 Scientific Text Mining
 
 
 
