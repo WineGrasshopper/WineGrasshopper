@@ -41,67 +41,6 @@ const anmol = {
 
 <h3 align="left">Connect with me: winegrasshopper@gmail.com</h3>
 
-
-
-
-# 💫 Academic and Work Experience
-
-## 🎓 Hanyang University Transformation Tourism Education-Research Team, Seoul, Korea
-
-> **BK (Brain Korea)21 Researcher** | *March 2021 – February 2024*
-
----
-
-### 🚀 Research Achievements
-> - 📚 8 journal publications
-> - 🎤 7 international conference presentations
-> - 🏆 11 academic and practical awards
-> - 🔬 2 research projects conducted
-> - 📜 1 patent application prepared
-> - 📰 5 press mentions
-
-### 🌟 Key Contributions
-> - 🧳 Conducted research on tourists' behavior, smart tourism, and urban development
-> - 🌐 Leveraged big data for comprehensive analysis
-> - 🤝 Collaborated with interdisciplinary teams to generate valuable insights
-
----
-
-## 🏢 KISTI (Korea Institute of Science and Technology Information), Daejeon, Korea
-
-> **Contract Worker** | *August 2020 – February 2021*
-
----
-
-### 💼 Key Responsibilities
-> - 🤖 Constructed text data using science and technology machine learning
-> - 🧹 Managed and purified unstructured data
-> - 📈 Developed new procedures and processes to improve work performance
-
-### 🛠️ Skills Applied & Developed
-> - 🧹 Data Processing & Analysis
-> - 🤖 Machine Learning Techniques
-> - ⚙️ Process Optimization
-> - 📚 Scientific Text Mining
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   # 💫 Academic and Work Experience
 
 ## 🎓 Hanyang University Transformation Tourism Education-Research Team, Seoul, Korea
