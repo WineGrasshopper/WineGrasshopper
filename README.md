@@ -140,6 +140,51 @@ const anmol = {
 
 <h1>🔧 Service Projects</h1>
 
+# Professional Experience
+
+## Seoul Facilities Corporation, Korea
+**Researcher (Project Leader)**  
+*Project Manager: Prof. Jeong Chul*  
+### Statistical Analysis and Report Writing for Integrity Survey of Seoul Facilities Management Corporation, 2024
+- **Key Responsibilities**
+  - 🧹 Data cleaning and analysis of 1,422 responses for self-integrity surveys
+  - 📊 Provided specific practical implications based on year-over-year analysis
+
+- **Skills Applied & Developed**
+  - Data Cleaning & Analysis
+  - Statistical Reporting
+  - Practical Implication Development
+
+---
+
+## Ongingun, Korea
+**Researcher (Project Leader)**  
+*Project Manager: Prof. Jeong Chul*  
+### Establishment of Master Plan for DMZ Tourism Development Resources, 2023
+- **Key Responsibilities**
+  - 📈 Developed master plan and marketing strategies for tourism development resources in the DMZ area
+  - 🏆 Achieved best research at the 95th TOSOK International Tourism Conference and published in the Journal of Korean Dance
+
+- **Skills Applied & Developed**
+  - Master Planning
+  - Marketing Strategy Development
+  - Academic Research & Presentation
+
+---
+
+## Korea Tourism Organization (KTO), Korea
+**Researcher (Project Leader)**  
+*Project Manager: Prof. Jeong Chul*  
+### A Study on Big Data Analysis of Population Declined Areas and Tourism-Centered Response Strategies, 2022
+- **Key Responsibilities**
+  - 🧹 Data cleaning and analysis of 1.5 million records, including card consumption and floating population data
+  - 📊 Developed directions and specific strategies for 107 areas experiencing population decline
+
+- **Skills Applied & Developed**
+  - Big Data Analysis
+  - Strategic Development
+  - Data-Driven Decision Making
+ 
 <div class="project-section">
     <ul class="project-details">
         <li>
