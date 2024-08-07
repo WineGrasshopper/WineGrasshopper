@@ -92,7 +92,7 @@ const anmol = {
 
 <div class="publication-section">
     <ul class="publication-details">
-        <li><strong>Lee, J.</strong> (2024). Unveiling the dark side of safari tourism: Negative guide behaviors from tourists’ perspective. <i>Journal of Travel Research</i>. (SSCI, Impact factor = 8.0, Awaiting EO processing)</li>
+        <li><strong>Lee, J.</strong> (2024). Unveiling the dark side of safari tourism: Negative guide behaviors from tourists’ perspective. <i>Tourism Management Perspectives</i>. (SSCI, Impact factor = 7.3, Editor Invited)</li>
         <li>Joo, H., Lee, S., <strong>Lee, J.</strong>, & Jeong, C. (2024). Research on revitalizing island tourism through analysis of tourist perception: Focusing on Baengnyeong Island, Daecheong Island, and Yeonpyeong Island. <i>Journal of Korean Dance</i>, <i>20</i>(2), 67-95. (In Korean)</li>
         <li><strong>Lee, J.</strong>, Chung, W., Kim, S., & Jeong, C. (2023). Trend assessment on African safari tourism applying dynamic topic modeling: A case of Tanzania online reviews in English. <i>Journal of Tourism Sciences</i>, <i>47</i>(6), 173-194. (In Korean)</li>
         <li><strong>Lee, J.</strong>, & Jeong, C. (2023). Analyzing preferred scenes in South Korea fishing villages with convolutional neural networks and image feature vector clustering. <i>Journal of Tourism Sciences</i>, <i>47</i>(3), 97-116. (In Korean)</li>
@@ -212,5 +212,5 @@ const anmol = {
     </ul>
 </div>
 
- Last Updated on 17/07/2024 00:01:31 UTC
+ Last Updated on 07/08/2024 17:59 KOR
 <!--END_SECTION:waka-->
