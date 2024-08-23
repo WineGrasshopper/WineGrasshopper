@@ -24,7 +24,7 @@ const anmol = {
         "HTML", "CSS", "Tensorflow", 
         "Pytorch", "OpenCV", "Scikit-learn"
     ],
-    statistic: ["SPSS", "SAS", "AMOS", "ArcGIS"],
+    statistic: ["SPSS", "SAS", "AMOS", "STATA", "ArcGIS"],
     askMeAbout: ["social science researcher", "web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
