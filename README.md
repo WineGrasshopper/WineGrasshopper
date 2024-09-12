@@ -92,6 +92,7 @@ const anmol = {
 
 <div class="publication-section">
     <ul class="publication-details">
+        <li><span style="background-color: yellow; padding: 2px;"><strong>Lee, J.</strong></span> (2024). Cryptocurrency travel revolution: Unraveling the mystery of user loyalty in volatile markets. <i>International Journal of Information Management</i>. (SSCI, Impact factor = 20.1, Submission planned: Sep 15, 2024)</li>
         <li><strong>Joo, H., Kim, B., Roh, H., & Lee, J.</strong> (2024). An analysis of satisfaction, immersion, time dissociation, and life expectations among temple stay tourists. <i>Journal of Destination Marketing & Management</i>. (SSCI, Impact factor = 8.9, Submission planned: Oct 30, 2024)</li>
         <li><strong>Lee, J.</strong> (2024). Cryptocurrency travel revolution: Unraveling the mystery of user loyalty in volatile markets. <i>International Journal of Information Management</i>. (SSCI, Impact factor = 20.1, Submission planned: Sep 15, 2024)</li>
         <li><strong>Lee, J.</strong> (2024). Unveiling the dark side of safari tourism: Negative guide behaviors from tourists’ perspective. <i>Tourism Management Perspectives</i>. (SSCI, Impact factor = 7.3, Under Review)</li>
@@ -126,7 +127,6 @@ const anmol = {
 
 <div class="presentation-section">
     <ul class="presentation-details">
-      <li><span style="background-color: yellow; padding: 2px;"><strong>Lee, J.</strong></span> (2024). Cryptocurrency travel revolution: Unraveling the mystery of user loyalty in volatile markets. <i>International Journal of Information Management</i>. (SSCI, Impact factor = 20.1, Submission planned: Sep 15, 2024)</li>
         <li>Roh, H., <strong>Lee, J.</strong>, & Lee, S. (2024 July). Does the atmosphere of night tourism influence authenticity? A focus on night tourism in palaces. <i>Presented at the 96th Tourism Sciences Society of Korea (TOSOK) International Conference. Yeosu, Korea.</i></li>
         <li>Joo, H., Lee, S., <strong>Lee, J.</strong>, & No, J. (2024 February). Research on revitalizing island tourism through analysis of tourist perception: Focusing on Baengnyeong Island, Daecheong Island, and Yeonpyeong Island. <i>Presented at the 95th Tourism Sciences Society of Korea (TOSOK) International Conference. Tongyeong, Korea.</i> <strong>(Best Paper Award)</strong></li>
         <li><strong>Lee, J.</strong>, Chung, W., & Jeong, C. (2023 June). Trend assessment on African safari tourism applying dynamic topic modeling: A case of Tanzania online reviews in English. <i>Presented at the 94th Tourism Sciences Society of Korea (TOSOK) International Conference. Jeju, Korea.</i></li>
