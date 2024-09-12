@@ -89,10 +89,28 @@ const anmol = {
 - ☁️ **Cloud**: Familiar with AWS
 
 <h1>📚 Refereed Publications</h1>
+<h1>📚 Refereed Publications</h1>
 
 <div class="publication-section">
     <ul class="publication-details">
-        <li><span style="background-color: yellow; padding: 2px;"><strong>Lee, J.</strong></span> (2024). Cryptocurrency travel revolution: Unraveling the mystery of user loyalty in volatile markets. <i>International Journal of Information Management</i>. (SSCI, Impact factor = 20.1, Submission planned: Sep 15, 2024)</li>
+        <li>⭐️ <span style="background-color: yellow; padding: 2px;"><strong>Joo, H., Kim, B., Roh, H., & Lee, J.</strong></span> (2024). An analysis of satisfaction, immersion, time dissociation, and life expectations among temple stay tourists. <i>Journal of Destination Marketing & Management</i>. (SSCI, Impact factor = 8.9, Submission planned: Oct 30, 2024)</li>
+        <li>⭐️ <span style="background-color: yellow; padding: 2px;"><strong>Lee, J.</strong></span> (2024). Cryptocurrency travel revolution: Unraveling the mystery of user loyalty in volatile markets. <i>International Journal of Information Management</i>. (SSCI, Impact factor = 20.1, Submission planned: Sep 15, 2024)</li>
+        <li>⭐️ <span style="background-color: yellow; padding: 2px;"><strong>Lee, J.</strong></span> (2024). Unveiling the dark side of safari tourism: Negative guide behaviors from tourists’ perspective. <i>Tourism Management Perspectives</i>. (SSCI, Impact factor = 7.3, Under Review)</li>
+        <li>⭐️ <span style="background-color: yellow; padding: 2px;">Joo, H., Lee, S., <strong>Lee, J.</strong></span>, & Jeong, C. (2024). Research on revitalizing island tourism through analysis of tourist perception: Focusing on Baengnyeong Island, Daecheong Island, and Yeonpyeong Island. <i>Journal of Korean Dance</i>, <i>20</i>(2), 67-95. (In Korean)</li>
+        <li>⭐️ <span style="background-color: yellow; padding: 2px;"><strong>Lee, J.</strong></span>, Chung, W., Kim, S., & Jeong, C. (2023). Trend assessment on African safari tourism applying dynamic topic modeling: A case of Tanzania online reviews in English. <i>Journal of Tourism Sciences</i>, <i>47</i>(6), 173-194. (In Korean)</li>
+        <li>⭐️ <span style="background-color: yellow; padding: 2px;"><strong>Lee, J.</strong></span>, & Jeong, C. (2023). Analyzing preferred scenes in South Korea fishing villages with convolutional neural networks and image feature vector clustering. <i>Journal of Tourism Sciences</i>, <i>47</i>(3), 97-116. (In Korean)</li>
+        <li>⭐️ <span style="background-color: yellow; padding: 2px;">Chung, W., <strong>Lee, J.</strong></span>, Kim, S., & Jeong, C. (2022). The effect of college festival experience on college-life satisfaction, college festival satisfaction, peer relationships improvement and re-participation intention. <i>Journal of Korean Dance</i>, <i>18</i>(4), 77-106. (In Korean)</li>
+        <li>⭐️ <span style="background-color: yellow; padding: 2px;"><strong>Lee, J.</strong></span>, & Jeong, C. (2022). The effect of emotional solidarity of local residents on tourism development support: Focusing on the near Hongdae area, <i>Journal of Tourism Sciences</i>, <i>46</i>(7), 97-120. (In Korean)</li>
+        <li>⭐️ <span style="background-color: yellow; padding: 2px;">Kim, H., <strong>Lee, J.</strong></span>, & Jeong, C. (2022). Effects of COVID-19 perception on cruise tourist behavioral intention using the theory of planned behavior: Focusing on cruise experience moderating effect. <i>Journal of Tourism Studies</i>, <i>34</i>(3), 89-112. (In Korean)</li>
+        <li>⭐️ <span style="background-color: yellow; padding: 2px;"><strong>Lee, J.</strong></span>, Kim, N., & Jeong, C. (2022). Effects of carbon emission media reports on eco-friendly tourism behavior intention. <i>Journal of Tourism Sciences</i>, <i>46</i>(5), 87-111. (In Korean)</li>
+        <li>⭐️ <span style="background-color: yellow; padding: 2px;"><strong>Lee, J.</strong></span>, Kim, S., & Jeong, C. (2022). A study on the perception of African safari tourist attractions using text mining: Based on English online reviews. <i>Journal of Tourism Studies</i>, <i>34</i>(2), 223-248. (In Korean)</li>
+    </ul>
+</div>
+
+
+
+<div class="publication-section">
+    <ul class="publication-details">
         <li><strong>Joo, H., Kim, B., Roh, H., & Lee, J.</strong> (2024). An analysis of satisfaction, immersion, time dissociation, and life expectations among temple stay tourists. <i>Journal of Destination Marketing & Management</i>. (SSCI, Impact factor = 8.9, Submission planned: Oct 30, 2024)</li>
         <li><strong>Lee, J.</strong> (2024). Cryptocurrency travel revolution: Unraveling the mystery of user loyalty in volatile markets. <i>International Journal of Information Management</i>. (SSCI, Impact factor = 20.1, Submission planned: Sep 15, 2024)</li>
         <li><strong>Lee, J.</strong> (2024). Unveiling the dark side of safari tourism: Negative guide behaviors from tourists’ perspective. <i>Tourism Management Perspectives</i>. (SSCI, Impact factor = 7.3, Under Review)</li>
