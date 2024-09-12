@@ -92,7 +92,8 @@ const anmol = {
 
 <div class="publication-section">
     <ul class="publication-details">
-              <li><strong>Lee, J.</strong> (2024). Cryptocurrency travel revolution: Unraveling the mystery of user loyalty in volatile markets. <i>International Journal of Information Management</i>. (SSCI, Impact factor = 20.1, Submission planned: Sep 12, 2024)</li>
+              
+      <li><strong>Lee, J.</strong> (2024). Cryptocurrency travel revolution: Unraveling the mystery of user loyalty in volatile markets. <i>International Journal of Information Management</i>. (SSCI, Impact factor = 20.1, Submission planned: Sep 15, 2024)</li>
         <li><strong>Lee, J.</strong> (2024). Unveiling the dark side of safari tourism: Negative guide behaviors from tourists’ perspective. <i>Tourism Management Perspectives</i>. (SSCI, Impact factor = 7.3, Under Review)</li>
         <li>Joo, H., Lee, S., <strong>Lee, J.</strong>, & Jeong, C. (2024). Research on revitalizing island tourism through analysis of tourist perception: Focusing on Baengnyeong Island, Daecheong Island, and Yeonpyeong Island. <i>Journal of Korean Dance</i>, <i>20</i>(2), 67-95. (In Korean)</li>
         <li><strong>Lee, J.</strong>, Chung, W., Kim, S., & Jeong, C. (2023). Trend assessment on African safari tourism applying dynamic topic modeling: A case of Tanzania online reviews in English. <i>Journal of Tourism Sciences</i>, <i>47</i>(6), 173-194. (In Korean)</li>
