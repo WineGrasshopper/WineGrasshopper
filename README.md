@@ -92,7 +92,7 @@ const anmol = {
 
 <div class="publication-section">
     <ul class="publication-details">
-        <li><strong>Joo, H., Kim, B., Roh, H., & Lee, J.</strong> (2024). An analysis of satisfaction, immersion, time dissociation, and life expectations among temple stay tourists. <i>Journal of Destination Marketing & Management</i>. (SSCI, Impact factor = 8.9, Submission planned: Oct 30, 2024)</li>
+        <li><strong>Joo, H., Kim, B., Roh, H., & Lee, J.</strong> (2024). How Templestay changes your behavior: The relationship between religious engagement and ethical behavior . <i>Journal of Destination Marketing & Management</i>. (SSCI, Impact factor = 8.9, Submission planned: Oct 30, 2024)</li>
         <li><strong>Lee, J.</strong> (2024). Cryptocurrency travel revolution: Unraveling the mystery of consumer trust in market environment volatility. <i>International Journal of Information Management</i>. (SSCI, Impact factor = 20.1, Current Status = With Editor)</li>
         <li><strong>Lee, J.</strong> (2024). Unveiling the dark side of safari tourism: Negative guide behaviors from tourists’ perspective. <i>Tourism Management Perspectives</i>. (SSCI, Impact factor = 7.3, Current Status = Revise(Minor))</li>
         <li>Joo, H., Lee, S., <strong>Lee, J.</strong>, & Jeong, C. (2024). Research on revitalizing island tourism through analysis of tourist perception: Focusing on Baengnyeong Island, Daecheong Island, and Yeonpyeong Island. <i>Journal of Korean Dance</i>, <i>20</i>(2), 67-95. (In Korean)</li>
