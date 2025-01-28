@@ -125,7 +125,7 @@ const anmol = {
 
 <div class="presentation-section">
     <ul class="presentation-details">
-        <li>Joo, H., Roh, H. & <strong>Lee, J.</strong>. (2025 January). Strategies for activating the connection between Templestay and nearby trails. <i>Presented at the 97th Tourism Sciences Society of Korea (TOSOK) International Conference. Seoul, Korea.</i></li>
+        <li>Joo, H., Roh, H. & <strong>Lee, J.</strong> (2025 January). Strategies for activating the connection between Templestay and nearby trails. <i>Presented at the 97th Tourism Sciences Society of Korea (TOSOK) International Conference. Seoul, Korea.</i></li>
         <li>Roh, H., <strong>Lee, J.</strong>, & Lee, S. (2024 July). Does the atmosphere of night tourism influence authenticity? A focus on night tourism in palaces. <i>Presented at the 96th Tourism Sciences Society of Korea (TOSOK) International Conference. Yeosu, Korea.</i></li>
         <li>Joo, H., Lee, S., <strong>Lee, J.</strong>, & No, J. (2024 February). Research on revitalizing island tourism through analysis of tourist perception: Focusing on Baengnyeong Island, Daecheong Island, and Yeonpyeong Island. <i>Presented at the 95th Tourism Sciences Society of Korea (TOSOK) International Conference. Tongyeong, Korea.</i> <strong>(Best Paper Award)</strong></li>
         <li><strong>Lee, J.</strong>, Chung, W., & Jeong, C. (2023 June). Trend assessment on African safari tourism applying dynamic topic modeling: A case of Tanzania online reviews in English. <i>Presented at the 94th Tourism Sciences Society of Korea (TOSOK) International Conference. Jeju, Korea.</i></li>
