@@ -92,8 +92,8 @@ const anmol = {
 
 <div class="publication-section">
     <ul class="publication-details">
-        <li><strong>Lee, J.</strong> (2024). Cryptocurrency travel revolution: Unraveling the mystery of consumer trust in market environment volatility. <i>Tourism Management</i>. (SSCI, Impact factor = 10.9, Current Status = Submitted to Journal)</li>
-        <li><strong>Lee, J.</strong> (2024). Unveiling the dark side of safari tourism: Negative guide behaviors from tourists’ perspective. <i>Tourism Management Perspectives</i>. (SSCI, Impact factor = 7.3, Current Status = With Editor(Prior Status: Minor Revision))</li>
+        <li><strong>Lee, J.</strong> (2025). Cryptocurrency travel revolution: Unraveling the mystery of consumer trust in market environment volatility. <i>Tourism Management</i>. (SSCI, Impact factor = 10.9, Current Status = Submitted to Journal)</li>
+        <li><strong>Lee, J.</strong> (2025). Unveiling the dark side of safari tourism: Negative guide behaviors from tourists’ perspective. <i>Tourism Management Perspectives</i>. (SSCI, Impact factor = 7.3, Current Status = With Editor(Prior Status: Minor Revision))</li>
         <li>Joo, H., Lee, S., <strong>Lee, J.</strong>, & Jeong, C. (2024). Research on revitalizing island tourism through analysis of tourist perception: Focusing on Baengnyeong Island, Daecheong Island, and Yeonpyeong Island. <i>Journal of Korean Dance</i>, <i>20</i>(2), 67-95. (In Korean)</li>
         <li><strong>Lee, J.</strong>, Chung, W., Kim, S., & Jeong, C. (2023). Trend assessment on African safari tourism applying dynamic topic modeling: A case of Tanzania online reviews in English. <i>Journal of Tourism Sciences</i>, <i>47</i>(6), 173-194. (In Korean)</li>
         <li><strong>Lee, J.</strong>, & Jeong, C. (2023). Analyzing preferred scenes in South Korea fishing villages with convolutional neural networks and image feature vector clustering. <i>Journal of Tourism Sciences</i>, <i>47</i>(3), 97-116. (In Korean)</li>
@@ -125,6 +125,7 @@ const anmol = {
 
 <div class="presentation-section">
     <ul class="presentation-details">
+        <li>Joo, H., Roh, H. & <strong>Lee, J.</strong>. (2025 January). Strategies for activating the connection between Templestay and nearby trails. <i>Presented at the 97th Tourism Sciences Society of Korea (TOSOK) International Conference. Seoul, Korea.</i></li>
         <li>Roh, H., <strong>Lee, J.</strong>, & Lee, S. (2024 July). Does the atmosphere of night tourism influence authenticity? A focus on night tourism in palaces. <i>Presented at the 96th Tourism Sciences Society of Korea (TOSOK) International Conference. Yeosu, Korea.</i></li>
         <li>Joo, H., Lee, S., <strong>Lee, J.</strong>, & No, J. (2024 February). Research on revitalizing island tourism through analysis of tourist perception: Focusing on Baengnyeong Island, Daecheong Island, and Yeonpyeong Island. <i>Presented at the 95th Tourism Sciences Society of Korea (TOSOK) International Conference. Tongyeong, Korea.</i> <strong>(Best Paper Award)</strong></li>
         <li><strong>Lee, J.</strong>, Chung, W., & Jeong, C. (2023 June). Trend assessment on African safari tourism applying dynamic topic modeling: A case of Tanzania online reviews in English. <i>Presented at the 94th Tourism Sciences Society of Korea (TOSOK) International Conference. Jeju, Korea.</i></li>
