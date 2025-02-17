@@ -92,7 +92,7 @@ const anmol = {
 
 <div class="publication-section">
     <ul class="publication-details">
-        <li>Chu, H. J., <strong>Lee, J*.,</strong> Roh, H. S. (2025). Beyond religious tourism: Revolutionizing Templestay (temple + stay) as a mental health intervention through wellness tourism <i>Annals of Tourism Research</i>. (SSCI, Impact factor = 10.4, To be submitted: Feb 14, 2025)</li>
+        <li>Chu, H. J., <strong>Lee, J*.,</strong> Roh, H. S. (2025). Beyond religious tourism: Revolutionizing Templestay (temple + stay) as a mental health intervention through wellness tourism <i>Annals of Tourism Research</i>. (SSCI, Impact factor = 10.4, Current Status = Submitted to Journal)</li>
         <li><strong>Lee, J.</strong> (2025). Cryptocurrency travel revolution: Unraveling the mystery of consumer trust in market environment volatility. <i>International Journal of Hospitality Management</i>. (SSCI, Impact factor = 10, Current Status = Submitted to Journal)</li>
         <li><strong>Lee, J.</strong> (2025). Unveiling the dark side of safari tourism: Negative guide behaviors from tourists’ perspective. <i>Tourism Management Perspectives</i>. (SSCI, Impact factor = 7.3, Current Status = Under Review(Prior Status: Minor Revision))</li>
         <li>Joo, H., Lee, S., <strong>Lee, J.</strong>, & Jeong, C. (2024). Research on revitalizing island tourism through analysis of tourist perception: Focusing on Baengnyeong Island, Daecheong Island, and Yeonpyeong Island. <i>Journal of Korean Dance</i>, <i>20</i>(2), 67-95. (In Korean)</li>
