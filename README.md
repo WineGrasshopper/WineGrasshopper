@@ -92,10 +92,11 @@ const anmol = {
 
 <div class="publication-section">
     <ul class="publication-details">
-        <li><strong>Lee, J.</strong>, & Jeong, C. (2025). How walkability affects accommodation satisfaction: A deep learning approach with HRNetV2-W48 and RoBERTa. <i>Tourism Management</i>. (SSCI, Impact factor = 10.9, To be submitted: April 20, 2025)</li>
+        <li><strong>Lee, J.</strong> (2025). Running toward the future: Exploring value co-creation and co-destruction in humanoid robot marathons. <i>International Journal of Information Management</i>. (SSCI, Impact factor = 20.1, To be submitted: June 10, 2025)</li>
+        <li><strong>Lee, J.</strong>, & Jeong, C. (2025). How walkability affects accommodation satisfaction: A deep learning approach with HRNetV2-W48 and RoBERTa. <i>Tourism Management</i>. (SSCI, Impact factor = 10.9, To be submitted: May 15, 2025)</li>
         <li>Chu, H. J., <strong>Lee, J.,</strong> Roh, H. S., & Jeong, C. (2025). Beyond religious tourism: Revolutionizing Templestay as a mental health intervention through wellness tourism <i>Journal of Travel & Tourism Marketing</i>. (SSCI, Impact factor = 8.2, Current Status = Under Review)</li>
         <li><strong>Lee, J.</strong> (2025). Cryptocurrency travel revolution: Unraveling the mystery of consumer trust in market environment volatility. <i>International Journal of Hospitality Management</i>. (SSCI, Impact factor = 10, Current Status = Under Review)</li>
-        <li><strong>Lee, J.</strong> (2025). Unveiling the dark side of safari tourism: Negative guide behaviors from tourists’ perspective. <i>Tourism Management Perspectives</i>. (SSCI, Impact factor = 7.3, Current Status = Under Review(Prior Status: Minor Revision))</li>
+        <li><strong>Lee, J.</strong>, & Jeong, C. (2025). Unveiling the dark side of safari tourism: Negative guide behaviors from tourists’ perspective. <i>Tourism Management Perspectives</i>. (SSCI, Impact factor = 7.3, Current Status = Required Reviews Complete (Prior Status: Minor Revision))</li>
         <li>Joo, H., Lee, S., <strong>Lee, J.</strong>, & Jeong, C. (2024). Research on revitalizing island tourism through analysis of tourist perception: Focusing on Baengnyeong Island, Daecheong Island, and Yeonpyeong Island. <i>Journal of Korean Dance</i>, <i>20</i>(2), 67-95. (In Korean)</li>
         <li><strong>Lee, J.</strong>, Chung, W., Kim, S., & Jeong, C. (2023). Trend assessment on African safari tourism applying dynamic topic modeling: A case of Tanzania online reviews in English. <i>Journal of Tourism Sciences</i>, <i>47</i>(6), 173-194. (In Korean)</li>
         <li><strong>Lee, J.</strong>, & Jeong, C. (2023). Analyzing preferred scenes in South Korea fishing villages with convolutional neural networks and image feature vector clustering. <i>Journal of Tourism Sciences</i>, <i>47</i>(3), 97-116. (In Korean)</li>
@@ -216,5 +217,5 @@ const anmol = {
     </ul>
 </div>
 
- Last Updated on April 4, 2025
+ Last Updated on April 28, 2025
 <!--END_SECTION:waka-->
