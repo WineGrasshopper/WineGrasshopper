@@ -93,7 +93,6 @@ const anmol = {
 <div class="publication-section">
     <ul class="publication-details">
         <li><strong>Lee, J.</strong>, Kim, D., Jang, H. S., & Chu, H. J. (2025). Exploring perceived value in safari tourism: From dimensions to formation processes. <i>Tourism Management</i>. (SSCI, Impact factor = 10.9, To be submitted: June 15, 2025)</li>
-        <li><strong>Lee, J.</strong>, & Jeong, C. (2025). How walkability affects accommodation satisfaction: A deep learning approach with HRNetV2-W48 and RoBERTa. <i>Tourism Management</i>. (SSCI, Impact factor = 10.9, To be submitted: May 30, 2025)</li>
         <li>Chu, H. J., <strong>Lee, J.,</strong> Roh, H. S., & Jeong, C. (2025). Beyond religious tourism: Revolutionizing Templestay as a mental health intervention through wellness tourism. <i>Journal of Travel & Tourism Marketing</i>. (SSCI, Impact factor = 8.2, Current Status = Under Major Revision)</li>
         <li><strong>Lee, J.</strong> (2025). Cryptocurrency travel revolution: Unraveling the mystery of consumer trust in market environment volatility. <i>International Journal of Hospitality Management</i>. (SSCI, Impact factor = 10, Current Status = Under Major Revision)</li>
         <li><strong>Lee, J.</strong>, & Jeong, C. (2025). Unveiling the dark side of safari tourism: Negative guide behaviors from tourists’ perspective. <i>Tourism Management Perspectives</i>. (SSCI, Impact factor = 7.3, Current Status = Under Minor Revision)</li>
