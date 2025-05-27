@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WineGrasshopper</h1>
 <h3 align="center">Computational Social Science Researcher</h3>
 
-From a young age, I have been driven by a unique curiosity to explore diverse academic fields. This led to my deep dive into social sciences, enriched by expertise in big data analytics, data literacy, and statistics. My work has been recognized in prestigious journals and awards in big data. My roles at Hanyang University and the Korea Institute of Science and Technology honed my multidisciplinary approach, instrumental in my doctoral research on tourist behavior and smart tourism and city. This background has enabled me to bridge methodological gaps in social sciences and address complex phenomena in science and engineering disciplines, enhancing my research capabilities.
+From a young age, I have been driven by a unique curiosity to explore diverse academic fields. This led to my deep dive into social sciences, enriched by expertise in Smart tourism, Machine Learning, Information Management, Travel Behavior. My work has been recognized in prestigious journals and awards in big data. My roles at Hanyang University and the Korea Institute of Science and Technology honed my multidisciplinary approach, instrumental in my doctoral research on tourist behavior and smart tourism and city. This background has enabled me to bridge methodological gaps in social sciences and address complex phenomena in science and engineering disciplines, enhancing my research capabilities..
 
 - 💬 Im interested in **Smart Tourism, Machine Learning, Information Management, Travel Behavior**
 - 📝 I'm always working on an **SSCI article**
